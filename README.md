@@ -9,4 +9,4 @@ this repository contains my assignments
 
 [assignment 6](https://github.com/SaraManders/assignments/blob/master/assignment6.ipynb)
 
-[assignment 7](https://github.com/SaraManders/assignments/blob/master/Graded_assignment_7.ipynb)
+[assignment 7](https://github.com/SaraManders/assignments/blob/master/assignment_7.ipynb)
