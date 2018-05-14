@@ -8,3 +8,5 @@ this repository contains my assignments
 [assignment 4](https://github.com/SaraManders/assignments/blob/master/assignment4.ipynb)
 
 [assignment 6](https://github.com/SaraManders/assignments/blob/master/assignment6.ipynb)
+
+[assignment 7](https://github.com/SaraManders/assignments/blob/master/Graded_assignment_7.ipynb)
