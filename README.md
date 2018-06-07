@@ -13,3 +13,4 @@ this repository contains my assignments
 
 [Exam_june_7_2018](https://github.com/SaraManders/assignments/blob/master/exam_june_7_2018.ipynb)
 
+[Exam_student](https://github.com/SaraManders/assignments/blob/master/Exam_student.ipynb)
