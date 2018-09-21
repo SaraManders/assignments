@@ -17,4 +17,4 @@ this repository contains my assignments
 
 [Exam sep 21 python](https://github.com/SaraManders/exam_sep_21/blob/master/exam_Sep_21_2018_python.ipynb)
 
-[Exam sep 21 R](
+[Exam sep 21 R](https://github.com/SaraManders/assignments/blob/master/exam_2_student_R.ipynb)
